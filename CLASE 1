@@ -1,0 +1,11 @@
+print("Hola Mundo")
+
+#range
+for i in range(20-40)
+print(bin(i))
+
+#binarios
+i = 41
+print(bin(i))
+
+main()
