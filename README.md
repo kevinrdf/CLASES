@@ -1,3 +1,3 @@
 # CLASES
 
-## Archivos de clase
+### Archivos de clase
